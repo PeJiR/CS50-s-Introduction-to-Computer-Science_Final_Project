@@ -50,7 +50,7 @@ When you're done managing your emails, simply log out with a single click, ensur
 
 ## ✨ Preview
 <p align="center">
-  <a href="https://pejir.github.io/intro-section-with-dropdown-navigation-main/">
+  <a href="https://www.youtube.com/watch?v=KEBxUmEw7hY">
     <img src="./images/Screenshot from 2024-05-18 18-11-53.png" width="500" height="400">
     <img src="./images/Screenshot from 2024-05-18 18-12-56.png" width="500" height="400">
     <img src="./images/Screenshot from 2024-05-18 18-14-10.png" width="500" height="400">
