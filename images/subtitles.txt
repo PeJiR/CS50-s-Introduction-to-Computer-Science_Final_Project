@@ -1,0 +1,27 @@
+ 
+
+## Web Mail Server by Roberto Perez
+
+### Introduction
+Introducing a sleek and user-friendly web mail server, designed and developed by Roberto Perez as his final project for CS50's Introduction to Computer Science course. This project showcases Roberto's skills in building a functional and intuitive email platform, akin to popular services like Gmail.
+
+### Key Features
+The web mail server boasts a range of essential features that cater to the needs of modern email users:
+
+#### Inbox
+Stay organized and on top of your communication with the clean and efficient Inbox. Easily view and manage all your incoming emails, ensuring you never miss an important message.
+
+#### Compose
+Crafting emails has never been easier. The Compose feature allows you to create new messages with a user-friendly interface, making it a breeze to communicate with colleagues, friends, and family.
+
+#### Sent
+Keep track of your outgoing emails with the Sent folder. Review and reference previously sent messages, ensuring you have a comprehensive record of your correspondence.
+
+#### Log Out
+When you're done managing your emails, simply log out with a single click, ensuring your account remains secure and private.
+
+### User Experience
+Roberto Perez has put a strong emphasis on creating an exceptional user experience. The web mail server boasts a clean and modern design, with intuitive navigation and a responsive layout that adapts seamlessly to various devices and screen sizes.
+
+### Conclusion
+Whether you're a student, professional, or simply someone who values efficient communication, Roberto Perez's web mail server is a testament to his programming skills and dedication to delivering a high-quality product. Experience the convenience and functionality of this impressive project today!
