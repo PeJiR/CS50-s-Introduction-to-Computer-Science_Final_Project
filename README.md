@@ -16,8 +16,7 @@ Week 10 Emoji
 
  
 ## 🏗️  Project description: 
-This project is a basic email server, akin to Gmail, featuring key functions like inbox, sent items, and composing emails.
-
+Introducing a sleek and user-friendly web mail server, designed and developed by Roberto Perez as his final project for CS50's Introduction to Computer Science course. This project showcases Roberto's skills in building a functional and intuitive email platform, akin to popular services like Gmail.
 
 ## 🤖 Technology Used 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
