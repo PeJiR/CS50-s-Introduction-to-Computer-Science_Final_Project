@@ -18,6 +18,22 @@ Week 10 Emoji
 ## 🏗️  Project description: 
 Introducing a sleek and user-friendly web mail server, designed and developed by Roberto Perez as his final project for CS50's Introduction to Computer Science course. This project showcases Roberto's skills in building a functional and intuitive email platform, akin to popular services like Gmail.
 
+### Key Features
+The web mail server boasts a range of essential features that cater to the needs of modern email users:
+
+#### Inbox
+Stay organized and on top of your communication with the clean and efficient Inbox. Easily view and manage all your incoming emails, ensuring you never miss an important message.
+
+#### Compose
+Crafting emails has never been easier. The Compose feature allows you to create new messages with a user-friendly interface, making it a breeze to communicate with colleagues, friends, and family.
+
+#### Sent
+Keep track of your outgoing emails with the Sent folder. Review and reference previously sent messages, ensuring you have a comprehensive record of your correspondence.
+
+#### Log Out
+When you're done managing your emails, simply log out with a single click, ensuring your account remains secure and private.
+
+
 ## 🤖 Technology Used 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=red&color=grey)
