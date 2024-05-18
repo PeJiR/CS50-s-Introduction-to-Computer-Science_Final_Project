@@ -51,10 +51,10 @@ When you're done managing your emails, simply log out with a single click, ensur
 ## ✨ Preview
 <p align="center">
   <a href="https://pejir.github.io/intro-section-with-dropdown-navigation-main/">
-    <img src="./images/Screencast from 2024-05-18 17-46-08.webm" width="500" height="400">
-    <img src="./screenshots/photo2.png" width="500" height="400">
-    <img src="./screenshots/photo1.png" width="500" height="400">
-    <img src="./screenshots/photo3.png" width="500" height="400">  
+    <img src="./images/Screenshot from 2024-05-18 18-11-53.png" width="500" height="400">
+    <img src="./images/Screenshot from 2024-05-18 18-12-56.png" width="500" height="400">
+    <img src="./images/Screenshot from 2024-05-18 18-14-10.png" width="500" height="400">
+    
   </a>
 </p>
 
